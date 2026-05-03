@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(python -c \"import fitz; print\\(''pymupdf available''\\)\")",
+      "Bash(python -c \"import PyPDF2; print\\(''PyPDF2 available''\\)\")",
+      "Bash(pdftotext '/c/Users/moodo/OneDrive/바탕 화면/개인/알고리즘 공부/알고리즘 개념교안.pdf' -)",
+      "Bash(pdftotext '/c/Users/moodo/OneDrive/바탕 화면/개인/알고리즘 공부/기초 교안.pdf' -)",
+      "Bash(python -c \":*)",
+      "Bash(pip install:*)",
+      "mcp__notion__notion-fetch",
+      "mcp__notion__notion-update-data-source",
+      "mcp__notion__notion-create-pages",
+      "mcp__notion__notion-update-page",
+      "mcp__notion__notion-update-view",
+      "WebSearch",
+      "WebFetch(domain:www.acmicpc.net)",
+      "WebFetch(domain:blog.encrypted.gg)",
+      "WebFetch(domain:yanghs6.github.io)",
+      "WebFetch(domain:velog.io)",
+      "mcp__notion__notion-search",
+      "Bash(rm *)",
+      "Bash(claude mcp *)"
+    ]
+  }
+}
