@@ -1,1 +1,21 @@
+# PDF 교안
 *.pdf
+
+# Claude Code 내부 파일
+.claude/
+
+# 채점 도구 (불필요)
+_smoke/
+judge.bat
+judge.ps1
+
+# 컴파일 결과물
+*.exe
+*.o
+*.out
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
