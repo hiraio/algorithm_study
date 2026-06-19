@@ -20,7 +20,31 @@
       "WebFetch(domain:velog.io)",
       "mcp__notion__notion-search",
       "Bash(rm *)",
-      "Bash(claude mcp *)"
+      "Bash(claude mcp *)",
+      "Bash(git fetch *)",
+      "Bash(git reset *)",
+      "Bash(HOST=127.0.0.1 PORT=12014 npm start)",
+      "Bash(curl -sS http://127.0.0.1:12014/health)",
+      "Bash(git status *)",
+      "Bash(g++ --version)",
+      "Bash(npm install *)",
+      "Bash(HOST=127.0.0.1 PORT=12014 node src/server.js)",
+      "Bash(g++ -O2 -o _tmp_3015.exe _tmp_3015.cpp)",
+      "Bash(./_tmp_3015.exe)",
+      "Bash(./_bf.exe)",
+      "Bash(python -c ' *)",
+      "Bash(rm -f _t.cpp _t.exe _bf.cpp _bf.exe _in.txt)",
+      "Bash(./boj2109)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :12014)",
+      "Bash(findstr LISTENING)",
+      "Bash(taskkill *)",
+      "Bash(git add *)",
+      "Bash(git commit -m '6/11: 5주차 시작 - 2109 순회강연\\(그리디+힙\\) + 9935 문자열폭발\\(스택\\) AC, 가용일 목표 2문제 달성 *)",
+      "Bash(git push *)",
+      "PowerShell(git pull *)",
+      "Bash(break)",
+      "Bash(sleep 1)"
     ]
   }
 }
